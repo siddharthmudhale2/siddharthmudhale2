@@ -1,95 +1,95 @@
-👋 Hi, I'm Siddharth Mudhale
-🚀 MCA Graduate | MERN Stack Developer | Java & Python | Backend & API Engineer
+<!--
+  Stylish GitHub Profile README for Siddharth Mudhale
+  Source: resume (Siddharth_BMSCE_Resume.pdf). :contentReference[oaicite:1]{index=1}
+-->
 
-🔹 Skilled in Java, Python, JavaScript (ES6+), MERN stack, REST APIs, RBAC, Microservices
-🔹 Experienced with SQL/NoSQL, multi-tenant architecture, and real-world software development
-🔹 Love building clean UI, scalable backends, secure authentication, and performance optimization
+<!-- HERO / Header -->
+<div align="center">
+  <img src="https://github.com/siddharthmudhale2/siddharthmudhale2/raw/main/header-wave.svg" alt="header" width="100%"/>
+  <h1 align="center">👋 Hi, I'm <b>Siddharth Mudhale</b></h1>
+  <p align="center">🚀 MCA Graduate • MERN Stack Developer • Java / Python • Backend & API Engineer</p>
 
-📍 Bengaluru, India
-📧 siddharthmudhale222@gmail.com
+  <!-- Quick links -->
+  <p>
+    <a href="https://sid-code-canvas.lovable.app" target="_blank">🌐 Portfolio</a> •
+    <a href="https://linkedin.com/in/siddharth-mudhale-5842442a1" target="_blank">🔗 LinkedIn</a> •
+    <a href="https://github.com/siddharthmudhale2" target="_blank">🐙 GitHub</a> •
+    <a href="mailto:siddharthmudhale222@gmail.com">✉️ Email</a>
+  </p>
 
-🔗 Portfolio: https://sid-code-canvas.lovable.app
+  <!-- Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge" alt="status"/>
+    <img src="https://img.shields.io/badge/Role-MERN%20%7C%20Backend-blue?style=for-the-badge" alt="role"/>
+    <img src="https://img.shields.io/badge/Location-Bengaluru-orange?style=for-the-badge" alt="location"/>
+  </p>
+</div>
 
-🔗 LinkedIn: https://linkedin.com/in/siddharth-mudhale-5842442a1
+---
 
-🔗 GitHub: https://github.com/siddharthmudhale2
+## 👨‍💻 About Me
+- MCA graduate with practical experience in **MERN**, **Java**, **Python**, REST APIs, RBAC and multi-tenant architectures.  
+- Built production-feel apps like **GoFindStay (hotel booking)** and **Readify (MERN bookstore with Razorpay)**; worked on ML pipelines for wheat yield prediction.  
+- I enjoy designing clean frontend UIs and writing scalable backends with secure authentication and performant DB queries.
 
-🛠️ Tech Stack
-Languages
+---
 
-Java • Python • JavaScript (ES6+) • SQL • NoSQL
+## 🛠 Tech & Tools
+**Languages:** `Java` • `Python` • `JavaScript (ES6+)` • `SQL` • `NoSQL`  
+**Frontend:** `React.js` • `Vite` • `Tailwind` (or plain CSS)  
+**Backend:** `Node.js` • `Express.js` • `Flask`  
+**DB:** `MySQL` • `MongoDB`  
+**Tools:** `Git` • `GitHub Actions` • `Docker` • `Postman` • `VS Code`  
+**Concepts:** `REST APIs` • `Microservices` • `RBAC` • `JWT` • `OOP` • `DSA`
 
-Frameworks
+---
 
-React.js • Node.js • Express.js • Flask
+## 🚀 Featured Projects
+> Click project names to open repo / demo (add repo links after pasting)
 
-Databases
+### 📚 Readify — MERN Bookstore Platform
+**Tech:** MongoDB • Express • React • Node • Razorpay  
+- Full-stack store: login, catalog, cart, checkout, admin dashboard.  
+- Razorpay integrated for payments; RBAC for admin features.  
+**Demo / Repo:** `https://github.com/siddharthmudhale2/readify` *(add link)*
 
-MySQL • MongoDB
+### 🏨 GoFindStay — Hotel Booking (Multi-tenant)
+**Tech:** React • Node • Express • MySQL  
+- Multi-tenant booking platform, RBAC (Customer/Admin/Superadmin), booking & wallet APIs.  
+**Demo / Repo:** `https://github.com/siddharthmudhale2/gofindstay` *(add link)*
 
-Tools
+### 🌾 Wheat Yield Prediction (ML)
+**Tech:** Python • Pandas • Scikit-learn • LightGBM/XGBoost  
+- End-to-end pipeline: preprocessing, feature engineering, modeling, evaluation (R², RMSE, MAE).  
+**Repo:** `https://github.com/siddharthmudhale2/wheat-yield-ml` *(add link)*
 
-Git • GitHub • Postman • VS Code
+---
 
-Core Concepts
+## 📈 GitHub Stats & Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharthmudhale2&show_icons=true&theme=radical" alt="Siddharth's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthmudhale2&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+</p>
 
-REST APIs • Microservices • RBAC • Multi-Tenant Architecture • JWT Auth • OOP • DSA
+---
 
-💼 Experience
-Software Developer Intern — Vipra Software Pvt. Ltd.
+## 🏅 Certifications
+- Full Stack Java Developer — Simplilearn  
+- Frontend Development — Simplilearn  
+- Oracle Cloud Infrastructure — AI Foundations
 
-Apr 2025 – Jul 2025 | Bengaluru
+---
 
-Contributed to GoFindStay, a multi-tenant hotel booking platform (React + Node + Express + MySQL).
+## 📫 Contact
+- Email: siddharthmudhale222@gmail.com  
+- Portfolio: https://sid-code-canvas.lovable.app  
+- LinkedIn: https://linkedin.com/in/siddharth-mudhale-5842442a1
 
-Implemented RBAC for Customer, Admin, and Superadmin roles.
+---
 
-Built REST APIs for wallet, bookings, notifications, authentication.
+## ✨ Extra Widgets (Optional)
+You can paste these under any section to show more flair:
 
-Improved MySQL performance using relational modeling, indexing & transactions.
-
-Collaborated using GitHub, Agile sprints, and code reviews.
-
-🚀 Projects
-📚 Readify – MERN Bookstore Platform (MERN + Razorpay)
-
-Full-stack bookstore with login, catalog, cart, checkout, and admin dashboard.
-
-Integrated Razorpay for payments & secure order tracking.
-
-Built RBAC-based admin panel for managing inventory, users, and orders.
-
-Improved MongoDB query performance + API speed.
-
-🌾 Wheat Yield Prediction Using ML
-
-Built ML models using LightGBM, XGBoost, Scikit-learn.
-
-Performed feature engineering, preprocessing & outlier handling.
-
-Evaluated using R², RMSE, MAE and cross-validation.
-
-Conducted EDA using Pandas, NumPy, Matplotlib & Seaborn.
-
-🏆 Certifications
-
-Full Stack Java Developer — Simplilearn
-
-Frontend Development — Simplilearn
-
-Oracle Cloud Infrastructure — AI Foundations
-
-📊 GitHub Stats
-![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthmudhale2&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthmudhale2&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharthmudhale2&theme=radical)
-
-🌐 Connect With Me
-
-🔗 Portfolio: https://sid-code-canvas.lovable.app
-
-🔗 LinkedIn: https://linkedin.com/in/siddharth-mudhale-5842442a1
-
-🔗 GitHub: https://github.com/siddharthmudhale2
+- Visitor counter:
+  ```md
+  ![Visitor Count](https://profile-counter.glitch.me/siddharthmudhale2/count.svg)
