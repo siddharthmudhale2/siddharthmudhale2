@@ -51,17 +51,17 @@
 **Tech:** MongoDB • Express • React • Node • Razorpay  
 - Full-stack store: login, catalog, cart, checkout, admin dashboard.  
 - Razorpay integrated for payments; RBAC for admin features.  
-**Demo / Repo:** `https://github.com/siddharthmudhale2/readify` *(add link)*
+**Demo / Repo:** `https://github.com/siddharthmudhale2/readify`
 
 ### 🏨 GoFindStay — Hotel Booking (Multi-tenant)
 **Tech:** React • Node • Express • MySQL  
 - Multi-tenant booking platform, RBAC (Customer/Admin/Superadmin), booking & wallet APIs.  
-**Demo / Repo:** `https://github.com/siddharthmudhale2/gofindstay` *(add link)*
+**Demo / Repo:** `https://github.com/siddharthmudhale2/gofindstay` 
 
 ### 🌾 Wheat Yield Prediction (ML)
 **Tech:** Python • Pandas • Scikit-learn • LightGBM/XGBoost  
 - End-to-end pipeline: preprocessing, feature engineering, modeling, evaluation (R², RMSE, MAE).  
-**Repo:** `https://github.com/siddharthmudhale2/wheat-yield-ml` *(add link)*
+**Repo:** `https://github.com/siddharthmudhale2/wheat-yield-ml` 
 
 ---
 
