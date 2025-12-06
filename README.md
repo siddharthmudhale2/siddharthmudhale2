@@ -86,10 +86,3 @@
 - LinkedIn: https://linkedin.com/in/siddharth-mudhale-5842442a1
 
 ---
-
-## ✨ Extra Widgets (Optional)
-You can paste these under any section to show more flair:
-
-- Visitor counter:
-  ```md
-  ![Visitor Count](https://profile-counter.glitch.me/siddharthmudhale2/count.svg)
